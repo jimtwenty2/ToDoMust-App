@@ -55,4 +55,8 @@ Users can upload profile and cover images using the device’s camera or gallery
 Custom Calendar
 A fully custom calendar widget is built from scratch to display and select dates within the app, giving you flexibility to customize UI and interactions beyond built-in calendar widgets.
 
-🎥 [Watch demo video on YouTube](https://www.youtube.com/watch?v=MwJTND4q_C4)
+### 📽️ Demo Video
+
+[![Watch the video](https://cdn-icons-png.flaticon.com/128/260/260446.png)](https://www.youtube.com/watch?v=MwJTND4q_C4)
+
+Click the image to watch the demo on YouTube.
